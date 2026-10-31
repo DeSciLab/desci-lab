@@ -46,3 +46,14 @@ Generated: 2026-10-29 | Status: Under review
 **Citations:** Magistretti & Allaman 2023 (Nat Rev Neurosci); Diering & Huganir 2022 (Neuron)  
 **Testable in:** Mouse sleep study, MCT4 conditional KO  
 **Status:** Awaiting expert review
+
+---
+
+## HYP-006: Dual-Pathway Autophagy Synergy (Urolithin A + Spermidine)
+**Domain:** Longevity
+**Added:** 2026-10-31
+**Claim:** Co-administration of Urolithin A and spermidine amplifies total autophagic flux beyond the additive effect of either compound alone, because they engage non-overlapping induction routes — Urolithin A selectively drives mitophagy via PINK1/Parkin, while spermidine induces macroautophagy via EP300 acetyltransferase inhibition.
+**Prediction:** In aged mice, combined dosing yields greater improvement in healthspan markers (grip strength, mitochondrial respiration in muscle, reduced p16+ burden) than either monotherapy, with a supra-additive interaction term.
+**Citations:** Andreux et al. 2019 (Nat Metab) — Urolithin A mitophagy in humans; Eisenberg et al. 2016 (Nat Med) — spermidine cardioprotection via autophagy; Pietrocola et al. 2015 (Cell Death Differ) — EP300 as autophagy checkpoint.
+**Testable in:** Aged C57BL/6 mice, 2x2 factorial design, autophagic flux via LC3-II/p62 western + mitophagy reporter (mt-Keima).
+**Status:** Open for expert review
